@@ -63,9 +63,11 @@ Personal developer portfolio showcasing my work and skills.
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=aman000712&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman000712&layout=compact&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aman000712&theme=tokyonight" />
 
 </p>
+
 
 ---
 
