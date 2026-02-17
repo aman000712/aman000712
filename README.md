@@ -50,11 +50,21 @@ Personal developer portfolio showcasing my work and skills.
 
 ## ⭐ Popular Repositories
 
-- **chhetripage** — Responsive CSS webpage  
-- **login** — Clean login interface design  
-- **login-page** — Modern UI login page  
-- **react** — React practice project  
-- **dayonereact** — Beginner React learning app
+- **AayamglobalschoolFront-end**  
+  Responsive frontend website built with modern CSS design.
+
+- **WesternmegaCMS**  
+  CMS project with clean and structured login interface.
+
+- **CollageBackend**  
+  Backend system handling APIs and database operations.
+
+- **DosConsultancyFront-end**  
+  Consultancy website frontend with responsive UI.
+
+- **WesternBackend**  
+  Backend project with server-side logic and database integration.
+
 
 ---
 
