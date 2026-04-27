@@ -15,7 +15,6 @@
 - 💻 Passionate about building **modern, scalable full-stack applications**
 - ⚡ Strong focus on **MERN Stack (MongoDB, Express, React, Node.js)**
 - 📚 Continuously learning new tools, frameworks & best practices
-- 🎯 Goal: Become a **high-level full-stack engineer**
 - 🌍 Enjoy turning ideas into real-world production-ready applications
 
 ---
