@@ -21,22 +21,37 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,html,css,tailwind,git,vscode" />
-</p>
+### 👨‍💻 Languages
+JavaScript | HTML5 | CSS3
+
+### ⚛ Frontend
+React | Tailwind CSS
+
+### 🧠 Backend
+Node.js | Express
+
+### 🗄 Database
+MongoDB | MySQL
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 MERN Authentication System
-Secure authentication system using JWT, bcrypt, and protected routes with role-based access.
+- 🔹 **Amphlo B2B** – Business-to-business platform system  
+- 🔹 **WesternMegaCollege** – College management & academic system  
+- 🔹 **Cloud9Cafe** – Cafe website with modern UI  
+- 🔹 **DosConsultancy** – Consultancy service platform  
+- 🔹 **GastroCenter** – Healthcare & service-based web system  
 
-### 🔹 React Admin Dashboard
-Modern responsive admin dashboard with reusable components and clean UI design.
+---
 
-### 🔹 Personal Portfolio Website
-Developer portfolio showcasing projects, skills, and professional experience.
+## ⭐ Popular Repositories
+
+- 🔹 **AayamglobalschoolFront-end** – Responsive frontend website built with modern CSS design  
+- 🔹 **WesternmegaCMS** – CMS project with clean and structured login interface  
+- 🔹 **CollageBackend** – Backend system handling APIs and database operations  
+- 🔹 **DosConsultancyFront-end** – Consultancy website frontend with responsive UI  
+- 🔹 **WesternBackend** – Backend project with server-side logic and database integration  
 
 ---
 
@@ -53,16 +68,11 @@ Developer portfolio showcasing projects, skills, and professional experience.
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aman-chhetri-006b541a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.amanchhetri.com.np/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
+💼 LinkedIn: https://www.linkedin.com/in/aman-chhetri-006b541a4/  
+📧 Email: amanchhetri779@gmail.com  
+🌐 Website: amanchhetri.com.np  
 
 ---
 
