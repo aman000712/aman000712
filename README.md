@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Chhetri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Junior+MERN+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Junior+MERN+Stack+Developer;Building+Scalable+Web+Applications;Turning+Ideas+into+Real+Products;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate about building **modern full-stack web applications**
-- ⚡ Focused on **MERN Stack (MongoDB, Express, React, Node.js)**
-- 📚 Constantly learning and improving my development skills
-- 🎯 Goal: Become a **high-impact full-stack engineer**
-- 🌍 Love turning ideas into real-world products
+- 💻 Passionate about building **modern, scalable full-stack applications**
+- ⚡ Strong focus on **MERN Stack (MongoDB, Express, React, Node.js)**
+- 📚 Continuously learning new tools, frameworks & best practices
+- 🎯 Goal: Become a **high-level full-stack engineer**
+- 🌍 Enjoy turning ideas into real-world production-ready applications
 
 ---
 
@@ -31,13 +31,13 @@
 ## 📌 Featured Projects
 
 ### 🔹 MERN Authentication System
-Secure authentication system with JWT, bcrypt, and protected routes.
+Secure authentication system using JWT, bcrypt, and protected routes with role-based access.
 
 ### 🔹 React Admin Dashboard
-Modern responsive dashboard UI with reusable components.
+Modern responsive admin dashboard with reusable components and clean UI design.
 
 ### 🔹 Personal Portfolio Website
-Clean developer portfolio showcasing projects and skills.
+Developer portfolio showcasing projects, skills, and professional experience.
 
 ---
 
@@ -61,7 +61,7 @@ Clean developer portfolio showcasing projects and skills.
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.amanchhetri.com.np/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
