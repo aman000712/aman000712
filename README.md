@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Chhetri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+JavaScript+Developer;MERN+%7C+Next.js+%7C+NestJS+Engineer;Building+Scalable+and+Secure+Web+Apps;Turning+Ideas+into+Real+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+NestJS+Engineer;Building+Scalable+and+Secure+Web+Apps;Turning+Ideas+into+Real+Products" />
 </p>
 
 <p align="center">
