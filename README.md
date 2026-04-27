@@ -1,86 +1,80 @@
-<h1 align="center">Hi 👋 I'm Aman</h1>
+<h1 align="center">Hi 👋, I'm Aman Chhetri</h1>
 
 <p align="center">
-  <b>Junior MERN Stack Developer</b><br/>
-  Building modern, scalable web applications
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Junior+MERN+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Tech" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman-chhetri-006b541a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.amanchhetri.com.np/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
-  </a>
+  <b>Full-Stack Developer | MERN Stack Enthusiast | Problem Solver</b>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-✨ Passionate about building dynamic and user-friendly web apps  
-⚡ Focused on full-stack development with the MERN stack  
-📚 Always learning new technologies and improving my skills  
-🎯 Goal: Become a high-level full-stack developer
+- 💻 Passionate about building **modern full-stack web applications**
+- ⚡ Focused on **MERN Stack (MongoDB, Express, React, Node.js)**
+- 📚 Constantly learning and improving my development skills
+- 🎯 Goal: Become a **high-impact full-stack engineer**
+- 🌍 Love turning ideas into real-world products
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,html,css,tailwind,git,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,html,css,tailwind,git,vscode" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 MERN Authentication App
-Secure login/signup system with full-stack user authentication.
+### 🔹 MERN Authentication System
+Secure authentication system with JWT, bcrypt, and protected routes.
 
-### 🔹 React Dashboard UI
-Modern responsive dashboard built with React and Tailwind CSS.
+### 🔹 React Admin Dashboard
+Modern responsive dashboard UI with reusable components.
 
-### 🔹 Portfolio Website
-Personal developer portfolio showcasing my work and skills.
-
----
-
-## ⭐ Popular Repositories
-
-- **AayamglobalschoolFront-end**  
-  Responsive frontend website built with modern CSS design.
-
-- **WesternmegaCMS**  
-  CMS project with clean and structured login interface.
-
-- **CollageBackend**  
-  Backend system handling APIs and database operations.
-
-- **DosConsultancyFront-end**  
-  Consultancy website frontend with responsive UI.
-
-- **WesternBackend**  
-  Backend project with server-side logic and database integration.
-
+### 🔹 Personal Portfolio Website
+Clean developer portfolio showcasing projects and skills.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aman000712&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aman000712&theme=tokyonight" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aman000712&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aman000712&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman000712&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aman-chhetri-006b541a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.amanchhetri.com.np/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  ⭐ Thanks for visiting my profile ⭐
 </p>
